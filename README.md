@@ -1,5 +1,5 @@
 # Video-Game-Sales
-Analysis and Prediction of Video Games Sales across Regions
+## Analysis and Prediction of Video Games Sales across Regions
 
 This project aims to predict video game sales across different regions
 and examine key factors that affect sales in each region. This was done
